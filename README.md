@@ -1,19 +1,4 @@
-<h1 align="center">Oii! Eu sou o Leandro Bueno 👋</h1>
-
-<p align="center">
-  Estudante de Análise e Desenvolvimento de Sistemas <br/>
-  Apaixonado por tecnologia e aprendizado constante.
-</p>
-
----
-
-### 👨‍💻 Sobre mim
-
-Sou uma pessoa curiosa, determinada e que está sempre em busca de evolução.  
-No momento, estou focado em construir uma base sólida em desenvolvimento e entender o funcionamento de sistemas de verdade.  
-Cada projeto, por menor que seja, é uma nova oportunidade de aprendizado.
-
----
+## Oiii! Eu sou o Leandro Bueno 👋
 
 ### 🚀 Tecnologias que estou estudando:
 
@@ -24,18 +9,19 @@ Cada projeto, por menor que seja, é uma nova oportunidade de aprendizado.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" title="SQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
 </div>
 
 ---
 
-### ⚙️ Projeto atual
+### 💡 Projeto atual
 
-Atualmente, estou explorando o **n8n** para automação de processos internos da empresa.  
-Estou testando localmente via **Docker**, criando **agentes de IA** que resolvem tarefas repetitivas e integram com APIs internas da Cowork.  
-A ideia é, após a validação local, subir esses projetos em uma **VPS** e apresentar soluções para outras empresas.
+Estou explorando o **n8n**, testando localmente via **Docker**, criando agentes de IA para automatizar tarefas internas da empresa (integrações com APIs e cowork).  
+O objetivo é subir tudo via **VPS** e apresentar soluções inteligentes para outras empresas.
 
 ---
 
-### 📬 Vamos conversar?
-
-Me chama no [LinkedIn](https://www.linkedin.com/in/leandrobuenobr/) ou me segue aqui no GitHub!
+<div align="center">
+  <p>✨ Em constante aprendizado e evolução ✨</p>
+</div>
