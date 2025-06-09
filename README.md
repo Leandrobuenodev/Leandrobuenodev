@@ -29,6 +29,8 @@ Atualmente, estou explorando o **n8n** para automação de processos internos da
 Estou testando localmente via **Docker**, criando **agentes de IA** que resolvem tarefas repetitivas e integram com APIs internas.  
 A ideia é, após a validação local, subir esses projetos em uma **VPS** e apresentar soluções para outras empresas.
 
+https://preview--coworking-flow-bot.lovable.app/
+
 ---
 
 1. 🧠 Interesses atuais
