@@ -18,27 +18,6 @@ Cada projeto, por menor que seja, é uma nova oportunidade de aprendizado.
 ### 🚀 Tecnologias que estou estudando:
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="50" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" title="SQL"/>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-o
 
----
-
-### 📂 Em breve por aqui:
-
-- [ ] Projetos usando Python e Java
-- [ ] Aplicações simples com banco de dados
-- [ ] Testes de deploy usando AWS
-- [ ] Automatizações com Git
-
----
-
-### 📬 Vamos conversar?
-
-Me chama no [LinkedIn](https://www.linkedin.com/in/leandrobuenobr/) ou me segue aqui no GitHub!
 
