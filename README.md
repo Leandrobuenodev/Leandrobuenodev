@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Leandro Bueno 👋
+## Oi! Eu sou o Leandro Bueno 👋
 
 ### 🚀 Tecnologias que estou estudando:
 
