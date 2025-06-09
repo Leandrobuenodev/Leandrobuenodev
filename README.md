@@ -25,18 +25,22 @@ Atualmente estudo linguagens e ferramentas para construir soluções práticas, 
 
 ### 💡 Projeto atual
 
-Estou explorando o **n8n**, testando localmente via **Docker**, criando agentes de IA para automatizar tarefas internas da empresa (integrações com APIs e cowork).  
-O objetivo é subir tudo via **VPS** e apresentar soluções inteligentes para outras empresas.
+Atualmente, estou explorando o **n8n** para automação de processos internos da empresa APIS COWORK.  
+Estou testando localmente via **Docker**, criando **agentes de IA** que resolvem tarefas repetitivas e integram com APIs internas.  
+A ideia é, após a validação local, subir esses projetos em uma **VPS** e apresentar soluções para outras empresas.
 
 ---
 
-### 📈 Em breve
+1. 🧠 Interesses atuais
+Automação de processos com IA
 
-- 📊 Dashboards com dados integrados
-- 🤖 Bots automatizando tarefas manuais
-- 🌐 Projetos com APIs reais conectadas a bancos de dados
-- 🛠️ Automação de processos internos com foco em produtividade
+Integrações com APIs
 
+Testes com n8n, Docker e VPS
+
+Aprimorar lógica de programação
+
+Soluções simples para problemas reais
 ---
 
 <div align="center">
