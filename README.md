@@ -1,4 +1,3 @@
-
 <div style="
   font-family: 'Segoe UI', sans-serif;
   background-color: #0f0f10;
@@ -24,8 +23,8 @@
     margin: 0;
     color: #fff;
   ">
-    I'm Le,<br>Software Dev.
-  </h1>
+    I'm Le,<br>Software Dev.  </h1>  Driven by logic, fueled by caffeine — I turn problems into solutions.
+
 
   <!-- Subtítulo -->
   <p style="
