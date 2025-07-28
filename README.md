@@ -5,19 +5,19 @@
     HI <strong>STRANGER</strong> 👋
   </p>
 
-  <!-- Título -->
-  <h1 style="font-size: 56px; line-height: 1.1; font-weight: 700; margin: 0; color: #fff;">
+  <!-- Título (sem h1 pra evitar linha no GitHub) -->
+  <p style="font-size: 56px; font-weight: 700; line-height: 1.1; margin: 0; color: #fff;">
     I'm Le,<br>Software Dev.
-  </h1>
+  </p>
 
-  <!-- Subtítulo personalizado -->
-  <div style="margin-top: 8px; font-size: 18px; color: #bbb; font-weight: 400;">
+  <!-- Subtítulo -->
+  <p style="font-size: 18px; color: #bbb; margin: 8px 0 0 0; line-height: 1.5;">
     Driven by logic, fueled by caffeine — I turn problems into solutions.
-  </div>
+  </p>
 
 </div>
 
-<!-- Separação visual clara -->
+<!-- Separação para a próxima seção -->
 <div style="height: 32px;"></div>
 
 <!-- Seção Sobre mim -->
@@ -27,6 +27,7 @@
   Apaixonado por automação, IA e linguagens modernas, busco excelência técnica e entrega de valor mensurável.<br>
   Minha jornada é marcada pela constância, aprendizado prático e inovação aplicada para resultados reais.
 </p>
+
 
 ---
 
