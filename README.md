@@ -1,7 +1,8 @@
-## HI STRANGER 👋
-I'm Leandro,
-Software Dev.
+HI STRANGER 👋 <br>
+I'm Leandro, <br>
+Software Dev. <br>
 Driven by logic, fueled by caffeine — I turn problems into solutions.
+
 
 
 
