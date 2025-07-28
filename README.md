@@ -38,12 +38,9 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=Leandrobuenodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobuenodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"/>
-</p>
+<img align="left" height="200" src="github-stats.svg" />
+<img align="left" height="200" src="github-toplangs.svg" />
 
-<br clear="both"/>
 
 ### O que me move é a construção de si.
 
