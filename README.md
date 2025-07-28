@@ -1,37 +1,48 @@
-<!-- Saudação menor -->
-<p align="left" style="
-  font-size: 14px;
-  color: #999;
-  margin: 0 0 12px 0;
-  font-family: 'Segoe UI', sans-serif;">
-  HI <strong>STRANGER</strong> 👋
-</p>
-
-<!-- Título principal (simulando <h1> sem linha) -->
-<p align="left" style="
-  font-size: 72px;
-  font-weight: 700;
-  line-height: 1.1;
-  color: #fff;
-  margin: 0;
-  font-family: 'Segoe UI', sans-serif;">
-  I'm Le,<br>Software Dev.
-</p>
-
-<!-- Subtítulo -->
-<p align="left" style="
-  font-size: 20px;
-  color: #bbb;
-  margin-top: 8px;
-  line-height: 1.5;
-  font-family: 'Segoe UI', sans-serif;">
-  Driven by logic, fueled by caffeine — I turn problems into solutions.
-</p>
-
-
 <p align="center" style="margin: 0;">
   <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" style="width: 100vw; height: auto; display: block; margin: 0;" />
 </p>
+
+<div style="
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0f0f10;
+  color: #fff;
+  padding: 40px;
+">
+
+  <!-- Saudação menor -->
+  <p style="
+    font-size: 14px;
+    color: #999;
+    margin: 0 0 12px 0;
+    letter-spacing: 0.5px;
+  ">
+    HI <strong>STRANGER</strong> 👋
+  </p>
+
+  <!-- Título principal -->
+  <h1 style="
+    font-size: 72px;
+    line-height: 1.1;
+    font-weight: 700;
+    margin: 0;
+    color: #fff;
+  ">
+    I'm Le,<br>Software Dev.
+  </h1>
+
+  <!-- Subtítulo -->
+  <p style="
+    font-size: 20px;
+    color: #bbb;
+    margin-top: 16px;
+    line-height: 1.6;
+    max-width: 700px;
+  ">
+    Driven by logic, fueled by caffeine — I turn problems into solutions.
+  </p>
+
+</div>
+
 
 <h2>Sobre mim</h2>
 <p>
