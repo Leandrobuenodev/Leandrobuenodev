@@ -14,25 +14,30 @@
     font-size: 14px;
     color: #999;
     margin: 0 0 12px 0;
-    letter-spacing: 0.5px;">
+    letter-spacing: 0.5px;
+  ">
     HI <strong>STRANGER</strong> 👋
   </p>
 
-  <!-- Título visual (sem usar h1) -->
-  <p style="
-    font-size: 36px;
+  <!-- Título principal -->
+  <h1 style="
+    font-size: 72px;
+    line-height: 1.1;
     font-weight: 700;
     margin: 0;
-    color: #fff;">
+    color: #fff;
+  ">
     I'm Le,<br>Software Dev.
-  </p>
+  </h1>
 
   <!-- Subtítulo -->
   <p style="
-    font-size: 18px;
+    font-size: 20px;
     color: #bbb;
-    margin-top: 8px;
-    line-height: 1.5;">
+    margin-top: 16px;
+    line-height: 1.6;
+    max-width: 700px;
+  ">
     Driven by logic, fueled by caffeine — I turn problems into solutions.
   </p>
 
