@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/O%20BIG%20NOTATION%20-%20Anota%C3%A7%C3%B5es%20img%20final.png" alt="Leandro Banner" width="800" style="max-height: 200px; object-fit: contain;" />
+  <img src="./assets/leandro-banner.png" alt="Leandro Banner" width="100%" style="max-height: 200px; object-fit: contain;" />
 </p>
+
 
 
 ## HI STRANGER 👋 <br>
