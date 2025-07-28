@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" width="800" style="max-height: 200px; object-fit: contain;" />
+<p align="center" style="margin: 0;">
+  <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" style="width: 100vw; height: auto; display: block; margin: 0;" />
 </p>
 
 ## HI STRANGER 👋 <br>
