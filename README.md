@@ -3,7 +3,7 @@
 </p>
 
 <h1 style="font-size: 56px; font-weight: bold; margin: 0;">
-  I'm Le,<br>Software Dev. </h1>
+  I'm Le,<br>Software Dev. 
 
 <p style="font-size: 18px; color: #ccc; margin-top: 8px;">
   Driven by logic, fueled by caffeine — I turn problems into solutions.
