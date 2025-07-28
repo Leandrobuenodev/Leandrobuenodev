@@ -1,29 +1,35 @@
-<!-- Título pequeno acima -->
-<p style="font-size: 14px; color: #aaa; margin: 0;">
-  HI <strong>STRANGER</strong> 👋
-</p>
+<!-- Container geral -->
+<div style="font-family: 'Segoe UI', sans-serif; color: #fff;">
 
-<!-- Título principal simulado (sem usar <h1>) -->
-<p style="
-  font-size: 56px;
-  font-weight: bold;
-  line-height: 1.1;
-  color: #fff;
-  margin: 0;
-  padding: 0;
-">
-  I'm Le,<br>Software Dev.
-</p>
+  <!-- Texto pequeno acima -->
+  <p style="font-size: 14px; color: #aaa; margin: 0 0 4px 0;">
+    HI <strong>STRANGER</strong> 👋
+  </p>
 
-<!-- Subtítulo/corpo -->
-<p style="
-  font-size: 18px;
-  color: #ccc;
-  margin: 8px 0 0 0;
-  padding: 0;
-">
-  Driven by logic, fueled by caffeine — I turn problems into solutions.
-</p>
+  <!-- Título grande com duas linhas -->
+  <p style="
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+  ">
+    I'm Le,<br>Software Dev.
+  </p>
+
+  <!-- Subtítulo leve e menor -->
+  <p style="
+    font-size: 20px;
+    font-weight: 400;
+    color: #bbb;
+    margin: 8px 0 0 0;
+    max-width: 600px;
+  ">
+    Driven by logic, fueled by caffeine — I turn problems into solutions.
+  </p>
+
+</div>
+
 
 <p align="center" style="margin: 0;">
   <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" style="width: 100vw; height: auto; display: block; margin: 0;" />
