@@ -1,13 +1,34 @@
+<!-- Título pequeno acima -->
 <p style="font-size: 14px; color: #aaa; margin-bottom: 0;">
   HI <strong>STRANGER</strong> 👋
 </p>
 
-<h1 style="font-size: 56px; font-weight: bold; margin: 0;">
-  I'm Le,<br>Software Dev. 
+<!-- Título principal (grande) -->
+<h1 style="
+  font-size: 56px;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+  border: none;
+  border-bottom: none;
+  box-shadow: none;
+">
+  I'm Le,<br>Software Dev.
+</h1>
 
-<p style="font-size: 18px; color: #ccc; margin-top: 8px;">
+<!-- Corpo (subtítulo menor, corpo normal) -->
+<p style="
+  font-size: 18px;
+  color: #ccc;
+  margin-top: 8px;
+  margin-bottom: 0;
+  border: none;
+  border-top: none;
+  box-shadow: none;
+">
   Driven by logic, fueled by caffeine — I turn problems into solutions.
 </p>
+
 
 
 <p align="center" style="margin: 0;">
