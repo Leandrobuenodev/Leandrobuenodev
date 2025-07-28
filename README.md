@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/big-notation-banner.png" alt="Leandro Banner" width="800" />
+  <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/O%20BIG%20NOTATION%20-%20Anota%C3%A7%C3%B5es%20img%20final.png" alt="Leandro Banner" width="800" style="max-height: 200px; object-fit: contain;" />
 </p>
 
 
