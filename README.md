@@ -4,11 +4,10 @@
 <!-- Título principal (grande) -->
 <h1 style="font-size: 56px; font-weight: bold; margin: 0;">I'm Le,<br>Software Dev.</h1>
 
-<!-- Subtítulo menor -->
-<p style="font-size: 18px; color: #ccc; margin-top: 10px;">
+<!-- Subtítulo menor (sem espaço grande abaixo) -->
+<p style="font-size: 18px; color: #ccc; margin-top: 8px;">
 Driven by logic, fueled by caffeine — I turn problems into solutions.
 </p>
-
 
 <p align="center" style="margin: 0;">
   <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" style="width: 100vw; height: auto; display: block; margin: 0;" />
