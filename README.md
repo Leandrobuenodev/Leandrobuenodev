@@ -1,5 +1,5 @@
 ## HI STRANGER 👋 <br>
-I'm Leandro, <br>
+I'm Le, <br>
 Software Dev. <br>
 Driven by logic, fueled by caffeine — I turn problems into solutions.
 
