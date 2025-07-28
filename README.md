@@ -1,14 +1,10 @@
 <!-- Título secundário (pequeno) -->
-<p style="font-size: 14px; color: #aaa; margin-bottom: 0; border: none; border-bottom: none;">
-  HI <strong>STRANGER</strong> 👋
-</p>
-<!-- Título secundário (pequeno) -->
 <p style="font-size: 14px; color: #aaa; margin-bottom: 0;">
   HI <strong>STRANGER</strong> 👋
 </p>
 
 <!-- Título principal (sem linha!) -->
-<h1 style="font-size: 56px; font-weight: bold; margin: 0; border-bottom: none;">
+<h1 style="font-size: 56px; font-weight: bold; margin: 0; border: none !important; border-bottom: none !important; box-shadow: none !important;">
   I'm Le,<br>Software Dev.
 </h1>
 
@@ -16,7 +12,6 @@
 <p style="font-size: 18px; color: #ccc; margin-top: 8px;">
   Driven by logic, fueled by caffeine — I turn problems into solutions.
 </p>
-
 
 <p align="center" style="margin: 0;">
   <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" style="width: 100vw; height: auto; display: block; margin: 0;" />
