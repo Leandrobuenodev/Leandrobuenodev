@@ -38,13 +38,9 @@
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Leandrobuenodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    style="margin-right: 20px;"
-  />
+### 📊 Estatísticas
+
+<p align="center">
   <img 
     alt="GitHub Top Languages" 
     height="200" 
