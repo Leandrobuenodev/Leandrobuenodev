@@ -15,8 +15,8 @@
     HI <strong>STRANGER</strong> 👋
   </p>
 
-  <!-- Título principal -->
-  <h1 style="
+  <!-- Título (sem usar <h1>) -->
+  <div style="
     font-size: 72px;
     line-height: 1.1;
     font-weight: 700;
@@ -24,13 +24,13 @@
     color: #fff;
   ">
     I'm Le,<br>Software Dev.
-  </h1>
+  </div>
 
   <!-- Subtítulo -->
   <p style="
     font-size: 20px;
     color: #bbb;
-    margin-top: 16px;
+    margin-top: 12px;
     line-height: 1.6;
     max-width: 700px;
   ">
