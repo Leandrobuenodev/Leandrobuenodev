@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/O%20BIG%20NOTATION%20-%20Anotações%20img%20final.png" alt="Leandro Banner" width="100%" />
+  <img src="./assets/big-notation-banner.png" alt="Leandro Banner" width="100%" style="max-height: 200px; object-fit: contain;" />
 </p>
 
 
