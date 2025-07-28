@@ -1,37 +1,41 @@
-<div style="font-family: 'Segoe UI', sans-serif; color: #fff;">
+<div style="
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0f0f10;
+  color: #fff;
+  padding: 40px;
+">
 
-  <!-- Título secundário (pequeno e sutil) -->
+  <!-- Saudação menor -->
   <p style="
     font-size: 14px;
     color: #999;
-    margin: 0;
+    margin: 0 0 12px 0;
+    letter-spacing: 0.5px;
   ">
     HI <strong>STRANGER</strong> 👋
   </p>
 
-  <!-- Título principal (grande, com Software Dev. e subtítulo colado abaixo) -->
-  <div style="
-    font-size: 56px;
-    font-weight: 700;
+  <!-- Título principal -->
+  <h1 style="
+    font-size: 72px;
     line-height: 1.1;
+    font-weight: 700;
     margin: 0;
-    padding: 0;
     color: #fff;
   ">
     I'm Le,<br>Software Dev.
-  </div>
+  </h1>
 
-  <!-- Subtítulo colado abaixo, com menos destaque -->
-  <div style="
-    font-size: 18px;
-    font-weight: 400;
+  <!-- Subtítulo -->
+  <p style="
+    font-size: 20px;
     color: #bbb;
-    margin-top: 4px;
-    line-height: 1.4;
-    max-width: 600px;
+    margin-top: 16px;
+    line-height: 1.6;
+    max-width: 700px;
   ">
     Driven by logic, fueled by caffeine — I turn problems into solutions.
-  </div>
+  </p>
 
 </div>
 
