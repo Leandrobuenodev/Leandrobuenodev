@@ -38,10 +38,15 @@
 
 ### 📊 Estatísticas
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=Leandrobuenodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="margin-right: 20px;"
+  />
+  <img 
+    alt="GitHub Top Languages" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobuenodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
