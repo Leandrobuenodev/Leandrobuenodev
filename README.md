@@ -1,44 +1,32 @@
-<div style="
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #0f0f10;
+<!-- Saudação menor -->
+<p align="left" style="
+  font-size: 14px;
+  color: #999;
+  margin: 0 0 12px 0;
+  font-family: 'Segoe UI', sans-serif;">
+  HI <strong>STRANGER</strong> 👋
+</p>
+
+<!-- Título principal (simulando <h1> sem linha) -->
+<p align="left" style="
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 1.1;
   color: #fff;
-  padding: 40px;
-">
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;">
+  I'm Le,<br>Software Dev.
+</p>
 
-  <!-- Saudação menor -->
-  <p style="
-    font-size: 14px;
-    color: #999;
-    margin: 0 0 12px 0;
-    letter-spacing: 0.5px;
-  ">
-    HI <strong>STRANGER</strong> 👋
-  </p>
-
-  <!-- Título (sem usar <h1>) -->
-  <div style="
-    font-size: 72px;
-    line-height: 1.1;
-    font-weight: 700;
-    margin: 0;
-    color: #fff;
-  ">
-    I'm Le,<br>Software Dev.
-  </div>
-
-  <!-- Subtítulo -->
-  <p style="
-    font-size: 20px;
-    color: #bbb;
-    margin-top: 12px;
-    line-height: 1.6;
-    max-width: 700px;
-  ">
-    Driven by logic, fueled by caffeine — I turn problems into solutions.
-  </p>
-
-</div>
-
+<!-- Subtítulo -->
+<p align="left" style="
+  font-size: 20px;
+  color: #bbb;
+  margin-top: 8px;
+  line-height: 1.5;
+  font-family: 'Segoe UI', sans-serif;">
+  Driven by logic, fueled by caffeine — I turn problems into solutions.
+</p>
 
 
 <p align="center" style="margin: 0;">
