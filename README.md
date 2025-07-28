@@ -1,4 +1,9 @@
-## Oiii! Eu sou o Leandro Bueno 👋
+## HI STRANGER 👋
+I'm Leandro,
+Software Dev.
+Driven by logic, fueled by caffeine — I turn problems into solutions.
+
+
 
 Sou entusiasta de tecnologia e estou explorando o universo da programação, automações e soluções baseadas em IA.  
 Atualmente estudo linguagens e ferramentas para construir soluções práticas, com foco em resolver problemas reais e entregar valor através da tecnologia.
