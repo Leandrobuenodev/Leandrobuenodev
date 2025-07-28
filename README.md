@@ -1,15 +1,21 @@
-## HI STRANGER 👋 <br>
-I'm Le, <br>
-Software Dev. <br>
-Driven by logic, fueled by caffeine — I turn problems into solutions.
-
 <p align="center" style="margin: 0;">
   <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" style="width: 100vw; height: auto; display: block; margin: 0;" />
 </p>
 
-Sou entusiasta de tecnologia e estou explorando o universo da programação, automações e soluções baseadas em IA.  
-Atualmente estudo linguagens e ferramentas para construir soluções práticas, com foco em resolver problemas reais e entregar valor através da tecnologia.
+<h1 align="center">HI STRANGER 👋</h1>
 
+<p align="center">
+  I'm Le,<br>
+  Software Dev.<br>
+  Driven by logic, fueled by caffeine — I turn problems into solutions.
+</p>
+
+<h2>Sobre mim</h2>
+<p>
+  Sou um desenvolvedor focado em transformar desafios complexos em soluções eficientes e escaláveis.<br>
+  Apaixonado por automação, IA e linguagens modernas, busco excelência técnica e entrega de valor mensurável.<br>
+  Minha jornada é marcada pela constância, aprendizado prático e inovação aplicada para resultados reais.
+</p>
 ---
 
 ### 🚀 Tecnologias que estou estudando:
