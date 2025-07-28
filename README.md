@@ -1,13 +1,18 @@
 <!-- Título secundário (pequeno) -->
-<p style="font-size: 14px; color: #aaa; margin-bottom: 0;">HI <strong>STRANGER</strong> 👋</p>
+<p style="font-size: 14px; color: #aaa; margin-bottom: 0;">
+  HI <strong>STRANGER</strong> 👋
+</p>
 
 <!-- Título principal (grande) -->
-<h1 style="font-size: 56px; font-weight: bold; margin: 0;">I'm Le,<br>Software Dev.
+<h1 style="font-size: 56px; font-weight: bold; margin: 0;">
+  I'm Le,<br>Software Dev.
+</h1>
 
-<!-- Subtítulo menor (sem espaço grande abaixo) -->
+<!-- Subtítulo menor -->
 <p style="font-size: 18px; color: #ccc; margin-top: 8px;">
-Driven by logic, fueled by caffeine — I turn problems into solutions.
+  Driven by logic, fueled by caffeine — I turn problems into solutions.
 </p>
+
 
 <p align="center" style="margin: 0;">
   <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" style="width: 100vw; height: auto; display: block; margin: 0;" />
