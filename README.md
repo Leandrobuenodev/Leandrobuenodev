@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" width="100%" style="max-height: 200px; object-fit: contain;" />
-</p>
+![Leandro Banner](https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png)
+
 ## HI STRANGER 👋 <br>
 I'm Le, <br>
 Software Dev. <br>
