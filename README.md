@@ -38,9 +38,7 @@
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
-<p align="center">
+<p align="left">
   <img 
     alt="GitHub Top Languages" 
     height="200" 
