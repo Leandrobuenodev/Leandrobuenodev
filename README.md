@@ -62,18 +62,76 @@ Aprender é meu esporte. A disciplina é meu diferencial.
 
 ### 🚀 Principais Cases e Projetos
 
-**🔹 APIS Coworking – Automação com IA e N8n**  
-Desenvolvimento de uma automação completa para atendimento de Coworking. Integrando:
-- Agentes de IA conversacionais com atendimento natural via WhatsApp
-- Integração com API do sistema Conexa para verificar salas livres
-- Envio automático de fotos, respostas a dúvidas e interação com banco de dados relacional e não-relacional
-- Infraestrutura com N8n + Docker na DigitalOcean
+🔹 APIs Coworking – Automação com IA e N8n
+Desenvolvimento de uma automação completa para atendimento inteligente de um coworking, integrando múltiplos sistemas e eliminando tarefas manuais.
 
-**🔹 Script Python – Organizador de Downloads**  
-Script de automação que monitora e organiza a pasta "Downloads", separando arquivos por tipo em pastas dedicadas.
+🧩 Problema identificado:
+Processos repetitivos e fragmentados estavam consumindo tempo e energia operacional, como:
 
-**🔹 API de Controle de Estoque (em desenvolvimento)**  
-Sistema com Flask e banco de dados para cadastro, edição, exclusão e consulta de produtos.
+Envio manual de informações a clientes
+
+Organização descentralizada de tarefas
+
+Falta de integração entre sistemas e ferramentas
+
+🛠️ Solução implementada:
+
+🤖 Agentes de IA conversacionais para atendimento natural via WhatsApp
+
+🔗 Integração com a API Conexa para gerenciar disponibilidade e reservas de salas
+
+📩 Envio automatizado de e-mails com notas fiscais
+
+🖼️ Envio automático de fotos, respostas a dúvidas e interações com bancos de dados (relacionais e não-relacionais)
+
+🐳 Infraestrutura em Docker + N8n hospedada em VPS DigitalOcean
+
+📈 Impacto técnico:
+
+⬇️ Redução significativa da intervenção humana em processos rotineiros
+
+🧱 Arquitetura modular, escalável e reutilizável, pronta para replicação em outros contextos corporativos
+
+-----
+
+🔹 📁 Script Python – Organizador de Downloads
+Automação leve e funcional desenvolvida com Python para otimizar a organização local de arquivos.
+
+🚨 Problema identificado:
+A pasta "Downloads" acumulava arquivos de forma desordenada, dificultando a localização de documentos e reduzindo a produtividade no dia a dia.
+
+🛠️ Solução implementada:
+
+🔍 Monitoramento automático da pasta de downloads
+
+📦 Classificação e movimentação de arquivos por tipo (PDF, imagens, executáveis, etc.)
+
+🧠 Estrutura lógica reutilizável e adaptável a outros diretórios do sistema
+
+🕒 Execução programada para rodar em segundo plano com mínimo consumo de recursos
+
+📈 Impacto técnico:
+
+📂 Organização automática do ambiente local, com redução de ruído visual e melhora na gestão de arquivos
+
+⚙️ Script modular, com fácil customização para outros contextos pessoais ou corporativos
+
+----
+
+**🔹 Desenvolvi uma API RESTful utilizando Flask, voltada à gestão de estoque de produtos em pequenos comércios.** 
+O objetivo era resolver a falta de controle sobre entrada e saída de produtos, o que gerava perda financeira e retrabalho.
+
+A solução implementada permite:
+
+✅ Cadastro, listagem e atualização de produtos via requisições HTTP
+
+📦 Registro de movimentações de estoque (entrada e saída)
+
+📊 Retorno em JSON com dados organizados e prontos para integração com sistemas futuros
+
+🔒 Organização do código com blueprint e separação por camadas (models, routes, controllers)
+
+Tecnologias aplicadas: Python, Flask, Insomnia (testes), JSON, boas práticas REST
 
 ---
 
