@@ -1,13 +1,3 @@
-<div style="
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-">
-  <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" 
-       alt="Leandro Banner"
-       style="width: 100%; max-width: 100%; display: block; border: none; margin: 0; padding: 0;" />
-</div>
 
 <div style="
   font-family: 'Segoe UI', sans-serif;
