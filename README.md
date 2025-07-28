@@ -1,13 +1,13 @@
-<p align="center" style="margin: 0;">
-  <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" style="width: 100vw; height: auto; display: block; margin: 0;" />
-</p>
-
 <h1 align="center">HI STRANGER 👋</h1>
 
 <p align="center">
   I'm Le,<br>
   Software Dev.<br>
   Driven by logic, fueled by caffeine — I turn problems into solutions.
+</p>
+
+<p align="center" style="margin: 0;">
+  <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" style="width: 100vw; height: auto; display: block; margin: 0;" />
 </p>
 
 <h2>Sobre mim</h2>
