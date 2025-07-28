@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/O%20BIG%20NOTATION%20-%20Anotações%20img%20final.png" alt="Leandro Banner" width="100%" />
+</p>
+
+
 ## HI STRANGER 👋 <br>
 I'm Le, <br>
 Software Dev. <br>
