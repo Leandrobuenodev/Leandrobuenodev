@@ -1,38 +1,29 @@
-<div style="
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #0f0f10;
-  color: #fff;
-  padding: 40px;
-">
+<!-- Container principal -->
+<div style="font-family: 'Inter', 'Segoe UI', sans-serif; color: #fff; background-color: #0f0f10; padding: 40px;">
 
-  <!-- Saudação menor -->
-  <p style="
-    font-size: 14px;
-    color: #999;
-    margin: 0 0 12px 0;
-    letter-spacing: 0.5px;
-  ">
+  <!-- Saudação (linha menor, discreta) -->
+  <p style="font-size: 14px; color: #999; margin: 0 0 16px 0;">
     HI <strong>STRANGER</strong> 👋
   </p>
 
-  <!-- Título (simulando h1, mas sem usar h1) -->
+  <!-- Título fake-h1 para evitar estilos externos -->
   <div style="
     font-size: 72px;
-    line-height: 1.1;
-    font-weight: 700;
+    font-weight: 800;
+    line-height: 1.15;
     margin: 0;
-    color: #fff;
+    padding: 0;
   ">
     I'm Le,<br>Software Dev.
   </div>
 
-  <!-- Subtítulo -->
+  <!-- Subtítulo (sem linha, colado com leve respiro) -->
   <p style="
     font-size: 20px;
     color: #bbb;
-    margin-top: 16px;
+    margin: 12px 0 0 0;
     line-height: 1.6;
-    max-width: 700px;
+    max-width: 680px;
   ">
     Driven by logic, fueled by caffeine — I turn problems into solutions.
   </p>
