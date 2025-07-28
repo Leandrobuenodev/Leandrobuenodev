@@ -2,7 +2,7 @@
 <p style="font-size: 14px; color: #aaa; margin-bottom: 0;">HI <strong>STRANGER</strong> 👋</p>
 
 <!-- Título principal (grande) -->
-<h1 style="font-size: 56px; font-weight: bold; margin: 0;">I'm Le,<br>Software Dev.</h1>
+<h1 style="font-size: 56px; font-weight: bold; margin: 0;">I'm Le,<br>Software Dev.
 
 <!-- Subtítulo menor (sem espaço grande abaixo) -->
 <p style="font-size: 18px; color: #ccc; margin-top: 8px;">
