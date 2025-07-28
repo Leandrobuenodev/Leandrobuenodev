@@ -1,52 +1,33 @@
-<div style="
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #0f0f10;
-  color: #fff;
-  padding: 40px;
-">
+<div style="font-family: 'Segoe UI', sans-serif; background-color: #0f0f10; color: #fff; padding: 40px;">
 
-  <!-- Saudação menor -->
-  <p style="
-    font-size: 14px;
-    color: #999;
-    margin: 0 0 12px 0;
-    letter-spacing: 0.5px;
-  ">
+  <!-- Saudação -->
+  <p style="font-size: 14px; color: #999; margin: 0 0 12px 0; letter-spacing: 0.5px;">
     HI <strong>STRANGER</strong> 👋
   </p>
 
-  <!-- Título principal -->
-  <h1 style="
-    font-size: 72px;
-    line-height: 1.1;
-    font-weight: 700;
-    margin: 0;
-    color: #fff;
-  ">
-    I'm Le,<br>Software Dev. </h1>
+  <!-- Título -->
+  <h1 style="font-size: 56px; line-height: 1.1; font-weight: 700; margin: 0; color: #fff;">
+    I'm Le,<br>Software Dev.
+  </h1>
 
-
-
-  <!-- Subtítulo -->
-  <p style="
-    font-size: 20px;
-    color: #bbb;
-    margin-top: 16px;
-    line-height: 1.6;
-    max-width: 700px;
-  ">
+  <!-- Subtítulo personalizado -->
+  <div style="margin-top: 8px; font-size: 18px; color: #bbb; font-weight: 400;">
     Driven by logic, fueled by caffeine — I turn problems into solutions.
-  </p>
+  </div>
 
 </div>
 
+<!-- Separação visual clara -->
+<div style="height: 32px;"></div>
 
+<!-- Seção Sobre mim -->
 <h2>Sobre mim</h2>
 <p>
   Sou um desenvolvedor focado em transformar desafios complexos em soluções eficientes e escaláveis.<br>
   Apaixonado por automação, IA e linguagens modernas, busco excelência técnica e entrega de valor mensurável.<br>
   Minha jornada é marcada pela constância, aprendizado prático e inovação aplicada para resultados reais.
 </p>
+
 ---
 
 ### 🚀 Tecnologias que estou estudando:
