@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/big-notation-banner.png" alt="Leandro Banner" width="100%" style="max-height: 200px; object-fit: contain;" />
+  <img src="./assets/big-notation-banner.png" alt="Leandro Banner" width="800" />
 </p>
-
-
 ## HI STRANGER 👋 <br>
 I'm Le, <br>
 Software Dev. <br>
