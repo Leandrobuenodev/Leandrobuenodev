@@ -23,7 +23,8 @@
     margin: 0;
     color: #fff;
   ">
-    I'm Le,<br>Software Dev.  </h1>  Driven by logic, fueled by caffeine — I turn problems into solutions.
+    I'm Le,<br>Software Dev.  
+
 
 
   <!-- Subtítulo -->
