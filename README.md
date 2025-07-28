@@ -1,4 +1,6 @@
-![Leandro Banner](https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leandrobuenodev/Leandrobuenodev/main/assets/leandro-banner.png" alt="Leandro Banner" width="800" style="max-height: 200px; object-fit: contain;" />
+</p>
 
 ## HI STRANGER 👋 <br>
 I'm Le, <br>
