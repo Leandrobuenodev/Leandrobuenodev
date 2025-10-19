@@ -7,7 +7,7 @@
 
   <!-- Título -->
   <h1 style="font-size: 56px; line-height: 1.1; font-weight: 700; margin: 0; color: #fff;">
-    I'm Le,<br>Software Dev.
+    I'm Le,<br>Software Dev and Pricing Intern | Data Analysis & Automation at Bunge
   </h1>
 
   <!-- Subtítulo personalizado -->
