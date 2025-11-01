@@ -1,62 +1,107 @@
 <div style="font-family: 'Segoe UI', sans-serif; background-color: #0f0f10; color: #fff; padding: 40px;">
 
-    <p style="font-size: 14px; color: #999; margin: 0 0 12px 0; letter-spacing: 0.5px;">     HI <strong>STRANGER</strong> 👋   </p>
+  <!-- Saudação -->
+  <p style="font-size: 14px; color: #999; margin: 0 0 12px 0; letter-spacing: 0.5px;">
+    HI <strong>STRANGER</strong> 👋
+  </p>
 
-    <h1 style="font-size: 56px; line-height: 1.1; font-weight: 700; margin: 0; color: #fff;">     I'm Le,
+  <!-- Título -->
+  <h1 style="font-size: 52px; line-height: 1.1; font-weight: 700; margin: 0; color: #fff;">
+    I'm Le,<br>Back-End Developer & Pricing Intern | Data Analysis & Automation at Bunge
+  </h1>
 
-
-Python Backend Developer | Software Dev Intern   </h1>
-
-    <div style="margin-top: 8px; font-size: 18px; color: #bbb; font-weight: 400;">     Solucionador de problemas focado em Arquitetura Backend, Containerização e CI/CD.   </div>
+  <!-- Subtítulo -->
+  <div style="margin-top: 8px; font-size: 18px; color: #bbb; font-weight: 400;">
+    Focused on <strong>Python, Django, FastAPI</strong> and <strong>automation that scales</strong>.
+  </div>
 
 </div>
 
 <div style="height: 32px;"></div>
 
-🛠 Stack Principal & Ferramentas
-Focado em construir e automatizar soluções escaláveis.
+---
 
-<p align="left">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" title="Python"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="30" title="Django"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="30" title="Flask"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="30" title="FastAPI"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" title="PostgreSQL"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" title="Docker"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="30" title="Google Cloud Platform"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" title="Git"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="30" title="GitHub Actions"/> </p>
+### 🛠 Tech Stack
 
-🚀 Destaque: Projetos de Alto Impacto
-Aqui demonstro minha capacidade de entrega em um ciclo completo de engenharia.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="36" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="36" title="AWS"/>
+</p>
 
-1. GarimpoAuto (Solução Full-Cycle Django) 🥇
-Confira o repositório fixado. Sistema de gestão veicular demonstrando proficiência em Arquitetura de Produção.
+---
 
-Valor: Pipeline CI/CD (GitHub Actions) para Testes e Deploy automatizado no Google Cloud Platform (GCP).
+### 📊 GitHub Insights
 
-Tecnologia: Containerização completa via Docker/Nginx e PostgreSQL (banco relacional).
+<p align="left">
+  <img 
+    alt="GitHub Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobuenodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
 
-Habilidade: Domínio de ORM e Modelagem de Dados com Django.
+---
 
-2. APIs & Automação com N8n (Coworking)
-Problema Resolvido: Eliminação de 5 horas/semana de trabalho manual por meio de automação e integração de sistemas fragmentados.
+### ⚙️ Engineering Mindset
 
-Solução: Criação de agentes de IA conversacional (WhatsApp) e integração com APIs externas (Conexa).
+> "Don’t code to finish — code to evolve."
 
-Tecnologia: Arquitetura modular Docker + N8n hospedada em VPS (DigitalOcean).
+I’m building **reliable back-end architectures** powered by **Python, Django, and FastAPI**, integrating APIs, automating workflows, and deploying scalable systems on **AWS**.  
+My background in data analysis helps me bring precision, metrics, and business understanding into every line of code.
 
-3. API RESTful de Gestão de Estoque (Flask)
-Impacto: Resolveu a falta de controle de estoque em pequenos comércios, minimizando perda financeira e retrabalho operacional.
+---
 
-Solução: Backend em Flask para cadastro e movimentação de produtos, garantindo a Integridade dos Dados via JSON e Requisções HTTP.
+### 🚀 Highlighted Projects
 
-🎯 Foco e Desenvolvimento Atual
-Caminhando para o domínio técnico e a excelência em práticas de engenharia.
+🔹 **Sistema de Revenda – Backend Escalável em Django (PostgreSQL | Docker | AWS)**  
+Aplicação completa para gerenciamento de veículos, com deploy em produção na AWS.  
+- Arquitetura modular via Docker Compose.  
+- CI/CD automatizado (GitHub Actions).  
+- Testes unitários com Pytest garantindo confiabilidade.  
+🧩 *Infraestrutura pronta para ambiente produtivo e escalável.*  
+🔗 [Ver no GitHub](https://github.com/Leandrobuenodev)
 
-Arquitetura de Sistemas: Padrões de Design, Microsserviços e Teoria REST.
+---
 
-Desenvolvimento Backend: Aprofundamento em FastAPI e Async/Await para alta performance.
+🔹 **Consulta de Endereços via CEP (Python | Requests | JSON | Pytest)**  
+CLI em Python que consome a API ViaCEP, valida status HTTP e formata JSON para integração.  
+- Automação de consultas e tratamento de erros.  
+- Testes unitários e versionamento via GitFlow.  
+📈 *Automação que elimina etapas manuais e melhora a qualidade dos dados.*  
+🔗 [Ver repositório](https://github.com/Leandrobuenodev/Projeto-consulta-cep)
 
-DevOps: Otimização de Dockerfiles e docker-compose para ambientes de produção.
+---
 
-Qualidade de Código: Prática diária de Estrutura de Dados e Algoritmos e implementação de Testes Unitários.
+🔹 **Aplicação CLI em Python (CRUD | Estruturas de Dados | OOP)**  
+Ferramenta de linha de comando com lógica CRUD e persistência local via I/O.  
+- Uso de POO, modularização e princípios de arquitetura limpa.  
+🔗 [Ver repositório](https://github.com/Leandrobuenodev)
 
-📚 Filosofia de Engenharia
-Cultivo uma mente lúcida e uma vontade treinada. Para mim, crescer como desenvolvedor exige o domínio da disciplina intelectual e a priorização da manutenibilidade do código.
+---
 
-📍 Onde me encontrar
-      📧 leandrosfbuenodev@gmail.com
+### 🧩 Current Focus
 
-"Cada linha de código é uma linha na minha própria construção."
+- **Django REST Framework** (API Architecture)  
+- **FastAPI** (microservices & performance)  
+- **AWS Cloud Practitioner** certification path  
+- **CI/CD automation** and **containerization (Docker)**  
+- **SQL & Data modeling**
+
+---
+
+### 📍 Where to find me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrobuenodev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrosfbueno)  
+📧 **leandrosfbuenodev@gmail.com**
+
+---
+
+> “Cada linha de código é uma linha na minha própria construção.”  
+> — *Leandro Bueno*
