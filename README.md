@@ -36,28 +36,16 @@
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="left">
-  <img 
-    alt="GitHub Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandrobuenodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-  />
-</p>
-
----
-
-### ⚙️ Engineering Mindset
+### ⚙️ Engenharia em Ação
 
 > "Don’t code to finish — code to evolve."
 
-I’m building **reliable back-end architectures** powered by **Python, Django, and FastAPI**, integrating APIs, automating workflows, and deploying scalable systems on **AWS**.  
-My background in data analysis helps me bring precision, metrics, and business understanding into every line of code.
+Construo **arquiteturas back-end robustas** utilizando **Python, Django e FastAPI**, integrando APIs, automatizando fluxos de trabalho e implantando sistemas escaláveis na **AWS**.  
+Minha experiência em **análise de dados** adiciona **precisão, métricas e visão de negócio** a cada linha de código.
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Projetos em Destaque
 
 🔹 **Sistema de Revenda – Backend Escalável em Django (PostgreSQL | Docker | AWS)**  
 Aplicação completa para gerenciamento de veículos, com deploy em produção na AWS.  
@@ -85,17 +73,17 @@ Ferramenta de linha de comando com lógica CRUD e persistência local via I/O.
 
 ---
 
-### 🧩 Current Focus
+### 🧩 Foco Atual
 
-- **Django REST Framework** (API Architecture)  
-- **FastAPI** (microservices & performance)  
-- **AWS Cloud Practitioner** certification path  
-- **CI/CD automation** and **containerization (Docker)**  
-- **SQL & Data modeling**
+- **Django REST Framework** (Arquitetura de APIs)  
+- **FastAPI** (microserviços e performance)  
+- **Certificação AWS Cloud Practitioner**  
+- **Automação de CI/CD** e **containerização (Docker)**  
+- **SQL & Modelagem de Dados**
 
 ---
 
-### 📍 Where to find me  
+### 📍 Onde me encontrar  
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrobuenodev)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrosfbueno)  
