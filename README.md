@@ -1,4 +1,3 @@
-🚀 Reformulação do Perfil GitHub (Foco: Python Backend & DevOps)
 <div style="font-family: 'Segoe UI', sans-serif; background-color: #0f0f10; color: #fff; padding: 40px;">
 
     <p style="font-size: 14px; color: #999; margin: 0 0 12px 0; letter-spacing: 0.5px;">     HI <strong>STRANGER</strong> 👋   </p>
