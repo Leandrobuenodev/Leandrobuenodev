@@ -53,7 +53,7 @@ Aplicação completa para gerenciamento de veículos, com deploy em produção n
 - CI/CD automatizado (GitHub Actions).  
 - Testes unitários com Pytest garantindo confiabilidade.  
 🧩 *Infraestrutura pronta para ambiente produtivo e escalável.*  
-🔗 [Ver no GitHub](https://github.com/Leandrobuenodev)
+
 
 ---
 
