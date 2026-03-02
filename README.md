@@ -1,95 +1,73 @@
-<div style="font-family: 'Segoe UI', sans-serif; background-color: #0f0f10; color: #fff; padding: 40px;">
-
-  <!-- Saudação -->
+<div style="font-family: 'Segoe UI', sans-serif; background-color: #0f0f10; color: #fff; padding: 40px; border-radius: 10px;">
   <p style="font-size: 14px; color: #999; margin: 0 0 12px 0; letter-spacing: 0.5px;">
-    HI <strong>STRANGER</strong> 👋
+    HI <strong>STRANGER</strong> 👋 I'M LEANDRO BUENO
   </p>
-
-  <!-- Título -->
-  <h1 style="font-size: 52px; line-height: 1.1; font-weight: 700; margin: 0; color: #fff;">
-    I'm Le,<br>Back-End Developer & Pricing Intern | Data Analysis & Automation at Bunge
+  <h1 style="font-size: 42px; line-height: 1.1; font-weight: 700; margin: 0; color: #fff;">
+    Backend Developer @ Kumulus<br>
+    <span style="font-size: 24px; color: #bbb;">C# .NET 8 | Azure Cloud | GenAI & IoT</span>
   </h1>
-
-  <!-- Subtítulo -->
-  <div style="margin-top: 8px; font-size: 18px; color: #bbb; font-weight: 400;">
-    Focused on <strong>Python, Django, FastAPI</strong> and <strong>automation that scales</strong>.
+  <div style="margin-top: 12px; font-size: 18px; color: #bbb; font-weight: 400;">
+    Building <strong>scalable architectures</strong> with a focus on <strong>AI-driven solutions</strong> and automation.
   </div>
-
 </div>
 
 <div style="height: 32px;"></div>
 
----
-
 ### 🛠 Tech Stack
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-plain.svg" width="36" title=".NET 8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="36" title="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="36" title="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="36" title="FastAPI"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="36" title="GitHub Actions"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="36" title="AWS"/>
 </p>
 
 ---
 
-### ⚙️ Engenharia em Ação
+### ⚙️ Engineering in Action
 
-> "Don’t code to finish — code to evolve."
+> [cite_start]"Artificial Intelligence is not just a chat; it's the new structured processing engine for the industry." [cite: 21]
 
-Construo **arquiteturas back-end robustas** utilizando **Python, Django e FastAPI**, integrando APIs, automatizando fluxos de trabalho e implantando sistemas escaláveis na **AWS**.  
-Minha experiência em **análise de dados** adiciona **precisão, métricas e visão de negócio** a cada linha de código.
+[cite_start]I work in the **AI & IoT** department at Kumulus, developing high-performance processing pipelines with **C# and .NET 8**[cite: 18, 19, 26]. [cite_start]Specialist in orchestrating **Azure Functions (Serverless)** integrated with **LLMs (GPT-4o)**, prioritizing **Clean Architecture** and cost efficiency (**FinOps**)[cite: 19, 20, 27].
 
----
-
-### 🚀 Projetos em Destaque
-
-🔹 **Sistema de Revenda – Backend Escalável em Django (PostgreSQL | Docker | AWS)**  
-Aplicação completa para gerenciamento de veículos, com deploy em produção na AWS.  
-- Arquitetura modular via Docker Compose.  
-- CI/CD automatizado (GitHub Actions).  
-- Testes unitários com Pytest garantindo confiabilidade.  
-🧩 *Infraestrutura pronta para ambiente produtivo e escalável.*  
-
+[cite_start]My background in **Data Engineering** at Bunge allows me to build systems that don't just process data, but generate scalable strategic intelligence[cite: 20, 33, 38].
 
 ---
 
-🔹 **Consulta de Endereços via CEP (Python | Requests | JSON | Pytest)**  
-CLI em Python que consome a API ViaCEP, valida status HTTP e formata JSON para integração.  
-- Automação de consultas e tratamento de erros.  
-- Testes unitários e versionamento via GitFlow.  
-📈 *Automação que elimina etapas manuais e melhora a qualidade dos dados.*  
-🔗 [Ver repositório](https://github.com/Leandrobuenodev/Projeto-consulta-cep)
+### 🚀 Featured Projects
+
+[cite_start]🔹 **PipelineDocAuditor – GenAI & Cloud (C# | .NET 8 | Azure OpenAI)** Serverless pipeline for automated auditing of industrial documents[cite: 26].
+- [cite_start]**Azure AI Document Intelligence:** Stream-based extraction for memory efficiency[cite: 27].
+- [cite_start]**Semantic Analysis:** **GPT-4o** orchestration for compliance reporting[cite: 27].
+- [cite_start]**Security & Scale:** Secret management via **Azure Key Vault** and CI/CD via **GitHub Actions**[cite: 28, 30].
 
 ---
 
-🔹 **Aplicação CLI em Python (CRUD | Estruturas de Dados | OOP)**  
-Ferramenta de linha de comando com lógica CRUD e persistência local via I/O.  
-- Uso de POO, modularização e princípios de arquitetura limpa.  
-🔗 [Ver repositório](https://github.com/Leandrobuenodev)
+🔹 **Enterprise Asset Management – Scalable Backend (Django | PostgreSQL | Docker)** Complete application for asset management with production-ready cloud deployment.
+- Modular architecture via Docker Compose.
+- Automated CI/CD (GitHub Actions).
+- Unit testing with Pytest ensuring reliability.
 
 ---
 
-### 🧩 Foco Atual
+### 🧩 Current Focus
 
-- **Django REST Framework** (Arquitetura de APIs)  
-- **FastAPI** (microserviços e performance)  
-- **Certificação AWS Cloud Practitioner**  
-- **Automação de CI/CD** e **containerização (Docker)**  
-- **SQL & Modelagem de Dados**
-
----
-
-### 📍 Onde me encontrar  
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrobuenodev)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrosfbueno)  
-📧 **leandrosfbuenodev@gmail.com**
+- **Microsoft Azure Certifications** (AZ-900 / AZ-204)
+- **Deep Dive into Generative AI** (RAG & Semantic Kernel)
+- **Microservices & Serverless Architectures**
+- **High-Performance Systems & FinOps**
 
 ---
 
-> “Cada linha de código é uma linha na minha própria construção.”  
-> — *Leandro Bueno*
+### 📍 Reach Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrobuenodev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrosfbueno)
+[cite_start]📧 **leandrosfbuenodev@gmail.com** [cite: 2]
+
+---
+
+> “Every line of code is a line in my own construction.” — *Leandro Bueno*
