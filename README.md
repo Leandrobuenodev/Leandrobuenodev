@@ -29,20 +29,20 @@
 
 ### ⚙️ Engineering in Action
 
-> [cite_start]"Artificial Intelligence is not just a chat; it's the new structured processing engine for the industry." [cite: 21]
+> "Artificial Intelligence is not just a chat; it's the new structured processing engine for the industry."
 
-[cite_start]I work in the **AI & IoT** department at Kumulus, developing high-performance processing pipelines with **C# and .NET 8**[cite: 18, 19, 26]. [cite_start]Specialist in orchestrating **Azure Functions (Serverless)** integrated with **LLMs (GPT-4o)**, prioritizing **Clean Architecture** and cost efficiency (**FinOps**)[cite: 19, 20, 27].
+I work in the **AI & IoT** department at Kumulus, developing high-performance processing pipelines with **C# and .NET 8**. Specialist in orchestrating **Azure Functions (Serverless)** integrated with **LLMs (GPT-4o)**, prioritizing **Clean Architecture** and cost efficiency (**FinOps**).
 
-[cite_start]My background in **Data Engineering** at Bunge allows me to build systems that don't just process data, but generate scalable strategic intelligence[cite: 20, 33, 38].
+My background in **Data Engineering** at Bunge allows me to build systems that don't just process data, but generate scalable strategic intelligence.
 
 ---
 
 ### 🚀 Featured Projects
 
-[cite_start]🔹 **PipelineDocAuditor – GenAI & Cloud (C# | .NET 8 | Azure OpenAI)** Serverless pipeline for automated auditing of industrial documents[cite: 26].
-- [cite_start]**Azure AI Document Intelligence:** Stream-based extraction for memory efficiency[cite: 27].
-- [cite_start]**Semantic Analysis:** **GPT-4o** orchestration for compliance reporting[cite: 27].
-- [cite_start]**Security & Scale:** Secret management via **Azure Key Vault** and CI/CD via **GitHub Actions**[cite: 28, 30].
+🔹 **PipelineDocAuditor – GenAI & Cloud (C# | .NET 8 | Azure OpenAI)** Serverless pipeline for automated auditing of industrial documents.
+- **Azure AI Document Intelligence:** Stream-based extraction for memory efficiency.
+- **Semantic Analysis:** **GPT-4o** orchestration for compliance reporting.
+- **Security & Scale:** Secret management via **Azure Key Vault** and CI/CD via **GitHub Actions**.
 
 ---
 
@@ -66,7 +66,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leandrobuenodev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandrosfbueno)
-[cite_start]📧 **leandrosfbuenodev@gmail.com** [cite: 2]
+📧 **leandrosfbuenodev@gmail.com**
 
 ---
 
