@@ -37,7 +37,12 @@ I work across **Python, Microsoft Azure, LLMs, backend systems and cloud infrast
 
 ### 🤖 AI-Assisted Engineering
 
-`Codex` · `Claude Code` · `AI Coding Agents` · `Code Review` · `Debugging` · `Testing` · `Documentation`
+<p>
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white" />
+</p>
+
+`AI Coding Agents` · `Code Review` · `Debugging` · `Testing` · `Refactoring` · `Documentation`
 
 ---
 
@@ -49,7 +54,7 @@ My work and personal projects involve building backend services, integrating **L
 
 I also bring a data and business background from my previous experience at **Bunge**, where I worked with **Python, SQL, Power BI and business analysis**.
 
-My current focus is not only on making AI work, but on understanding how to build AI-enabled applications that are **secure, testable, deployable, observable and maintainable**.
+My current focus goes beyond making AI work: I want to understand how AI-enabled applications are **designed, secured, tested, deployed, monitored and maintained as real software systems**.
 
 ---
 
@@ -57,11 +62,11 @@ My current focus is not only on making AI work, but on understanding how to buil
 
 AI coding agents are part of my day-to-day engineering workflow.
 
-I actively use **Codex** and **Claude Code** to support software development across implementation, debugging, investigation, testing, refactoring, infrastructure work and technical documentation.
+I actively use **Codex** and **Claude Code** across implementation, debugging, investigation, testing, refactoring, infrastructure work and technical documentation.
 
 I use AI coding agents to:
 
-- explore and understand unfamiliar codebases;
+- explore and understand codebases;
 - investigate bugs and deployment failures;
 - implement and refactor application code;
 - generate and expand automated tests;
@@ -69,11 +74,11 @@ I use AI coding agents to:
 - inspect logs, errors and runtime behavior;
 - challenge implementation and architecture decisions;
 - improve technical documentation;
-- accelerate repetitive engineering tasks.
+- automate repetitive engineering work.
 
-AI-generated code is treated as engineering input that must be **reviewed, tested, validated and understood** before it becomes part of the system.
+AI-generated code is treated as engineering input that must be **reviewed, tested, validated and understood** before it becomes part of a system.
 
-The goal is not simply to generate more code — it is to use **Codex, Claude Code and AI-assisted workflows** to improve engineering speed while maintaining technical judgment and ownership.
+The goal is not simply to generate more code. I use **Codex, Claude Code and AI-assisted engineering workflows** to move faster while maintaining technical judgment, validation and ownership.
 
 ---
 
@@ -81,9 +86,12 @@ The goal is not simply to generate more code — it is to use **Codex, Claude Co
 
 # Open Thread
 
-**AI-enabled application built to demonstrate end-to-end software delivery on Microsoft Azure.**
+**AI-enabled web application running on Microsoft Azure.**
 
-Open Thread combines a conversational AI experience with the engineering required to build, secure, deploy and operate a real cloud application.
+Open Thread combines a conversational AI experience with an authenticated frontend, protected backend APIs, persistent workspace data, model integration, cloud infrastructure and automated delivery.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Leandrobuenodev/open-thread)
+[![Live Application](https://img.shields.io/badge/Azure-Live_Application-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://happy-plant-01556e90f.5.azurestaticapps.net)
 
 ### Application
 
@@ -100,7 +108,7 @@ Open Thread combines a conversational AI experience with the engineering require
 ### Identity & Security
 
 - Microsoft Entra ID
-- MSAL
+- MSAL authentication
 - Protected REST APIs
 - JWT validation
 - Managed Identity
@@ -108,7 +116,7 @@ Open Thread combines a conversational AI experience with the engineering require
 - Private Blob Storage
 - Non-root container runtime
 
-### Cloud
+### Azure Cloud
 
 - Azure Static Web Apps
 - Azure Container Apps
@@ -127,9 +135,7 @@ Open Thread combines a conversational AI experience with the engineering require
 - Automated testing
 - Pull Request validation
 - Immutable container deployments
-- DEV environment delivery
-
-> Public repository and engineering documentation coming soon.
+- Automated DEV delivery
 
 ---
 
@@ -139,7 +145,8 @@ Open Thread combines a conversational AI experience with the engineering require
 - **LLM Application Development**
 - **Microsoft Azure**
 - **Cloud-native Software Engineering**
-- **Codex & Claude Code workflows**
+- **Codex & Claude Code**
+- **AI-Assisted Software Engineering**
 - **AI Coding Agents**
 - **AI Agents & Tool Calling**
 - **RAG & Retrieval Quality**
@@ -156,13 +163,13 @@ I'm currently deepening my knowledge in:
 - Agentic AI systems
 - Tool calling and structured outputs
 - RAG and retrieval quality
-- LLM evaluation
-- AI observability
+- LLM evaluation and observability
 - Microsoft Foundry
 - Azure AI services
 - Cloud architecture
 - Software delivery automation
 - AI-assisted software engineering
+- Machine Learning fundamentals and applied AI
 
 ---
 
